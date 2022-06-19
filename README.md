@@ -11,15 +11,15 @@
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/hadizat-abdulhakieem-6a29a8218" target="_blank">
 <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
 </a>
-<a href="https://instagram.com/https://instagram.com/kwin_deezah" target="_blank">
+<!-- <a href="https://instagram.com/https://instagram.com/kwin_deezah" target="_blank">
 <img src=https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
-</a>
+</a> -->
 <a href="https://twitter.com/https://twitter.com/kwin_deezah" target="_blank">
 <img src=https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white alt=twitter style="margin-bottom: 5px;" />
 </a>
-<a href="https://www.facebook.com/https://www.facebook.com/profile.php?id=100064397920521" target="_blank">
+<!-- <a href="https://www.facebook.com/https://www.facebook.com/profile.php?id=100064397920521" target="_blank">
 <img src=https://img.shields.io/badge/facebook-%232E87FB.svg?&style=for-the-badge&logo=facebook&logoColor=white alt=facebook style="margin-bottom: 5px;" />
-</a>  
+</a>   -->
 </div>  
   
 <br/>  
@@ -32,13 +32,15 @@
 <div>
   I'm a Software Developer from Nigeria
   
-- 🔭 I’m currently working as a Software Developer 
+- 🔭 I’m currently working as a Software Developer and a Digital Markerter focused on content marketing
   
-- ✍️  I'm also into Technical Writing 
+- ✍️  I'm also exploring Technical Writing
   
 - 🕰  I love reading, listening to music, and watching movies in my spare time
   
-- 🤩 Fun fact: I use over spaces tabs
+- 🤩 Fun fact: I use spaces over tabs
+  
+- 📫 How to reach me: 
 
 </div>
 
