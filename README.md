@@ -25,7 +25,7 @@
 <br/>  
 
 <div align="center">
-<img src="https://github.com/kwindeezah/kwindeezah/blob/main/a%20git.png" alt="banner that says Hadizat Abdulhakieem - software developer, digital marketer, baker" align="center" style="width: 100%" />
+<img src="https://github.com/kwindeezah/kwindeezah/blob/main/a%20git.png" alt="banner that says Hadizat Abdulhakieem - software developer, digital marketer, baker" align="center" style="width: 80%"/>
 </div>  
 
 ## 👩🏼‍💻 About Me
