@@ -30,7 +30,7 @@
 
 ## 👩🏼‍💻 About Me
 <div>
-  I'm a Software Developer from Nigeria
+  I'm a Software Engineer
   
 - 🔭 I’m currently working as a Software Developer and a Digital Marketer focused on content marketing
   
