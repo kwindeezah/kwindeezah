@@ -32,13 +32,11 @@
 <div>
   I'm a Software Developer from Nigeria
   
-- 🔭 I’m currently working as a Software Developer and a Digital Markerter focused on content marketing
+- 🔭 I’m currently working as a Software Developer and a Digital Marketer focused on content marketing
   
 - ✍️  I'm also exploring Technical Writing
   
-- 🕰  I love reading, listening to music, and watching movies in my spare time
-  
-- 🤩 Fun fact: I use spaces over tabs
+- 🕰  I love reading, exercising, and watching movies in my spare time
   
 - 📫 How to reach me: 
 
