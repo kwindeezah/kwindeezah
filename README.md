@@ -32,11 +32,11 @@
 <div>
   I'm a Software Engineer
   
-- 🔭 I’m currently working as a Software Developer and a Digital Marketer focused on content marketing
+- 🔭 I’m currently working as a Software Engineer
   
 - ✍️  I'm also exploring Technical Writing
   
-- 🕰  I love reading, exercising, and watching movies in my spare time
+- 🕰  I love reading, playing lawn tennis, and watching movies in my spare time
   
 - 📫 How to reach me: 
 
